@@ -1,4 +1,4 @@
-# security-researcher-journal
+# Security Researcher Journal Appio Labs LLC
 
 
 
